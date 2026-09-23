@@ -13,13 +13,27 @@ jobs:
 
       - name: Fetch quote and update README
         run: |
-          QUOTE=$(curl -s https://api.quotable.io/random?tags=technology | python3 -c "import sys, json; d = json.load(sys.stdin); print(f'> \"{d[\"content\"]}\" – {d[\"author\"]}')")
-          python3 - << PYEOF
-          import re
+          curl -s https://zenquotes.io/api/random -o quote.json
+          cat quote.json
+          python3 << 'PYEOF'
+          import json, re
+
+          with open("quote.json") as f:
+              data = json.load(f)[0]
+
+          quote_line = f'> "{data["q"]}" – {data["a"]}'
+
           with open("README.md") as f:
               content = f.read()
-          new_block = f"<!-- QUOTE_START -->\n${QUOTE}\n<!-- QUOTE_END -->"
-          content = re.sub(r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->", new_block, content, flags=re.DOTALL)
+
+          new_block = f"<!-- QUOTE_START -->\n{quote_line}\n<!-- QUOTE_END -->"
+          content = re.sub(
+              r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->",
+              new_block,
+              content,
+              flags=re.DOTALL,
+          )
+
           with open("README.md", "w") as f:
               f.write(content)
           PYEOF
