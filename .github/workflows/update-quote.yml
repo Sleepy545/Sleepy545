@@ -1,0 +1,33 @@
+name: Daily Tech Quote
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch quote and update README
+        run: |
+          QUOTE=$(curl -s https://api.quotable.io/random?tags=technology | python3 -c "import sys, json; d = json.load(sys.stdin); print(f'> \"{d[\"content\"]}\" – {d[\"author\"]}')")
+          python3 - << PYEOF
+          import re
+          with open("README.md") as f:
+              content = f.read()
+          new_block = f"<!-- QUOTE_START -->\n${QUOTE}\n<!-- QUOTE_END -->"
+          content = re.sub(r"<!-- QUOTE_START -->.*?<!-- QUOTE_END -->", new_block, content, flags=re.DOTALL)
+          with open("README.md", "w") as f:
+              f.write(content)
+          PYEOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update daily quote" || echo "No changes to commit"
+          git push
