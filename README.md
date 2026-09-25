@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Happiness depends on your mindset and attitude." – Roy T. Bennett
+> "Laziness may appear attractive, but work gives satisfaction." – Anne Frank
 <!-- QUOTE_END -->
