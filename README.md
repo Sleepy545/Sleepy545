@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Laziness may appear attractive, but work gives satisfaction." – Anne Frank
+> "Don't cry because it's over. Smile because it happened." – Dr. Seuss
 <!-- QUOTE_END -->
