@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Don't cry because it's over. Smile because it happened." – Dr. Seuss
+> "Continuous effort - not strength or intelligence - is the key to unlocking our potential." – Winston Churchill
 <!-- QUOTE_END -->
