@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Continuous effort - not strength or intelligence - is the key to unlocking our potential." – Winston Churchill
+> "The first principle of success is desire." – Robert Collier
 <!-- QUOTE_END -->
