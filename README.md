@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The first principle of success is desire." – Robert Collier
+> "Who wishes to fight must first count the cost." – Sun Tzu
 <!-- QUOTE_END -->
