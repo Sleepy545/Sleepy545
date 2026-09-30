@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Who wishes to fight must first count the cost." – Sun Tzu
+> "Unless you change how you are, you will always have what you got." – Jim Rohn
 <!-- QUOTE_END -->
