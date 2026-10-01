@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Unless you change how you are, you will always have what you got." – Jim Rohn
+> "Patience is bitter, but its fruit is sweet." – Aristotle
 <!-- QUOTE_END -->
