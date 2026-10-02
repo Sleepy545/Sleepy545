@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Patience is bitter, but its fruit is sweet." – Aristotle
+> "The man who does not value himself, cannot value anything or anyone." – Ayn Rand
 <!-- QUOTE_END -->
