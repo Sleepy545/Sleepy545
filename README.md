@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The man who does not value himself, cannot value anything or anyone." – Ayn Rand
+> "The key to immortality is first living a life worth remembering." – Bruce Lee
 <!-- QUOTE_END -->
