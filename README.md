@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The key to immortality is first living a life worth remembering." – Bruce Lee
+> "You can suffer the pain of change or suffer remaining the way you are." – Joyce Meyer
 <!-- QUOTE_END -->
