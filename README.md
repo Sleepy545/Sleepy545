@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You can suffer the pain of change or suffer remaining the way you are." – Joyce Meyer
+> "Real growth comes through intense, difficult, and challenging situations." – Kamal Ravikant
 <!-- QUOTE_END -->
