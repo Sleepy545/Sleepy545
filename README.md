@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Real growth comes through intense, difficult, and challenging situations." – Kamal Ravikant
+> "You have power over your mind - not outside events. Realize this, and you will find strength." – Marcus Aurelius
 <!-- QUOTE_END -->
