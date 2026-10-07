@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You have power over your mind - not outside events. Realize this, and you will find strength." – Marcus Aurelius
+> "Courage is fear that has said its prayers and decided to go forward anyway." – Joyce Meyer
 <!-- QUOTE_END -->
