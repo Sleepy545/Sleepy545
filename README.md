@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Courage is fear that has said its prayers and decided to go forward anyway." – Joyce Meyer
+> "Life is like underwear, should be changed twice a day." – Ray Bradbury
 <!-- QUOTE_END -->
