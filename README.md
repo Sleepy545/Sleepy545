@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life is like underwear, should be changed twice a day." – Ray Bradbury
+> "There is nothing like looking if you want to find something." – J.R.R. Tolkien
 <!-- QUOTE_END -->
