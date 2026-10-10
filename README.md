@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "There is nothing like looking if you want to find something." – J.R.R. Tolkien
+> "If you want to be successful, you have to jump, there's no way around it." – Steve Harvey
 <!-- QUOTE_END -->
