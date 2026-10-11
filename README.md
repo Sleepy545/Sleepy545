@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "If you want to be successful, you have to jump, there's no way around it." – Steve Harvey
+> "Don't let anyone define you. You define yourself." – Billie Jean King
 <!-- QUOTE_END -->
