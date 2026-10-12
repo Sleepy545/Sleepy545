@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Don't let anyone define you. You define yourself." – Billie Jean King
+> "It is often safer to be in chains than to be free." – Franz Kafka
 <!-- QUOTE_END -->
