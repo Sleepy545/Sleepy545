@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It is often safer to be in chains than to be free." – Franz Kafka
+> "Alone we can do so little; together we can do so much." – Helen Keller
 <!-- QUOTE_END -->
