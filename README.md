@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Alone we can do so little; together we can do so much." – Helen Keller
+> "You have the potential for greatness." – Steve Harvey
 <!-- QUOTE_END -->
