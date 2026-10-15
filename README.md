@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You have the potential for greatness." – Steve Harvey
+> "Guilt is perhaps the most painful companion of death." – Coco Chanel
 <!-- QUOTE_END -->
