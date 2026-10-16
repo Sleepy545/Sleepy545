@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Guilt is perhaps the most painful companion of death." – Coco Chanel
+> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." – Elbert Hubbard
 <!-- QUOTE_END -->
