@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." – Elbert Hubbard
+> "You've got to get up every morning with determination if you're going to go to bed with satisfaction." – George Lorimer
 <!-- QUOTE_END -->
