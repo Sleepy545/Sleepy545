@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "You've got to get up every morning with determination if you're going to go to bed with satisfaction." – George Lorimer
+> "A journey of a thousand miles begins with a single step." – Lao Tzu
 <!-- QUOTE_END -->
