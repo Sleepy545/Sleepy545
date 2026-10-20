@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new." – Og Mandino
+> "People don't care how much you know until they know how much you care." – Theodore Roosevelt
 <!-- QUOTE_END -->
