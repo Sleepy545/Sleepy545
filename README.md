@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "People don't care how much you know until they know how much you care." – Theodore Roosevelt
+> "He who leaves the game wins it." – Nicolas Chamfort
 <!-- QUOTE_END -->
