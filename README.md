@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "He who leaves the game wins it." – Nicolas Chamfort
+> "The truth is not for all men, but for those who seek it." – Ayn Rand
 <!-- QUOTE_END -->
