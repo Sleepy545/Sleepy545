@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The truth is not for all men, but for those who seek it." – Ayn Rand
+> "Greatness comes from living with purpose and passion." – Ralph Marston
 <!-- QUOTE_END -->
