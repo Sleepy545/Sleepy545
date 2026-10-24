@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Greatness comes from living with purpose and passion." – Ralph Marston
+> "The first principle of success is desire." – Robert Collier
 <!-- QUOTE_END -->
