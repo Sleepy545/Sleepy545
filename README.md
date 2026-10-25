@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The first principle of success is desire." – Robert Collier
+> "The fear of death is more to be feared, than death itself." – Publilius Syrus
 <!-- QUOTE_END -->
