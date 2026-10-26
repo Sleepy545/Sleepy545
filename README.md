@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The fear of death is more to be feared, than death itself." – Publilius Syrus
+> "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence." – George Washington
 <!-- QUOTE_END -->
