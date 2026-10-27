@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence." – George Washington
+> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." – Gary Keller
 <!-- QUOTE_END -->
