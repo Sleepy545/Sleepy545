@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." – Gary Keller
+> "Trust in dreams, for in them is the hidden gate to eternity." – Kahlil Gibran
 <!-- QUOTE_END -->
