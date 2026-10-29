@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Trust in dreams, for in them is the hidden gate to eternity." – Kahlil Gibran
+> "Everything you've ever wanted is on the other side of fear." – George Addair
 <!-- QUOTE_END -->
