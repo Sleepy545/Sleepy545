@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Everything you've ever wanted is on the other side of fear." – George Addair
+> "Make each day a new horizon." – Christopher McCandless
 <!-- QUOTE_END -->
