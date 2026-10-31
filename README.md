@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Make each day a new horizon." – Christopher McCandless
+> "There are no ordinary moments." – Dan Millman
 <!-- QUOTE_END -->
