@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "There are no ordinary moments." – Dan Millman
+> "To every action there is always opposed an equal reaction." – Isaac Newton
 <!-- QUOTE_END -->
