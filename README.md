@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "If we all did the things we are capable of doing, we would literally astound ourselves." – Thomas Edison
+> "Life doesn't get easier or more forgiving, we get stronger and more resilient." – Steve Maraboli
 <!-- QUOTE_END -->
