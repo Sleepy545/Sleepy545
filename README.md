@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life doesn't get easier or more forgiving, we get stronger and more resilient." – Steve Maraboli
+> "Make yourself so useful to other people, that they think you are irreplaceable." – Og Mandino
 <!-- QUOTE_END -->
