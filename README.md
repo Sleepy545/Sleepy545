@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Make yourself so useful to other people, that they think you are irreplaceable." – Og Mandino
+> "Whenever people agree with me I always feel I must be wrong." – Oscar Wilde
 <!-- QUOTE_END -->
