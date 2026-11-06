@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Whenever people agree with me I always feel I must be wrong." – Oscar Wilde
+> "Life has no limitations except the ones you make." – Les Brown
 <!-- QUOTE_END -->
