@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life has no limitations except the ones you make." – Les Brown
+> "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." – Peter A. Cohen
 <!-- QUOTE_END -->
