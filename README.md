@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "When we think about our strengths, we are strong. When we think about our weaknesses, we are weak." – Peter A. Cohen
+> "The man who does not value himself, cannot value anything or anyone." – Ayn Rand
 <!-- QUOTE_END -->
