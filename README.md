@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "It's the unknown we fear when we look upon death and darkness, nothing more." – Albus Dumbledore
+> "The wise speak only of what they know." – J.R.R. Tolkien
 <!-- QUOTE_END -->
