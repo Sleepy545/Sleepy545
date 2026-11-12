@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "He who knows best knows how little he knows." – Thomas Jefferson
+> "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." – Dan Millman
 <!-- QUOTE_END -->
