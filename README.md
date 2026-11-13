@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf." – Dan Millman
+> "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." – Sonia Ricotti
 <!-- QUOTE_END -->
