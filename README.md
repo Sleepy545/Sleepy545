@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom." – Sonia Ricotti
+> "In three words I can sum up everything I've learned about life: it goes on." – Robert Frost
 <!-- QUOTE_END -->
