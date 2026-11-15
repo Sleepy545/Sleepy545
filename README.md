@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "In three words I can sum up everything I've learned about life: it goes on." – Robert Frost
+> "We tend to live up to our expectations." – Earl Nightingale
 <!-- QUOTE_END -->
