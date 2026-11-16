@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "We tend to live up to our expectations." – Earl Nightingale
+> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman
 <!-- QUOTE_END -->
