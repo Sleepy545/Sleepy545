@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less." – Dan Millman
+> "All has not been said and never will be." – Samuel Beckett
 <!-- QUOTE_END -->
