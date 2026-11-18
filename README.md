@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "All has not been said and never will be." – Samuel Beckett
+> "In the end, it's not the years in your life that count. It's the life in your years." – Abraham Lincoln
 <!-- QUOTE_END -->
