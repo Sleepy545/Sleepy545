@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "In the end, it's not the years in your life that count. It's the life in your years." – Abraham Lincoln
+> "The reward of suffering is experience." – Harry S. Truman
 <!-- QUOTE_END -->
