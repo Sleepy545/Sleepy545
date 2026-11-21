@@ -14,5 +14,5 @@ echo "Building, breaking, and securing networks & systems."
 
 ### 💡 Daily Tech Quote
 <!-- QUOTE_START -->
-> "The reward of suffering is experience." – Harry S. Truman
+> "Desire for the fruits of work must never be your motive in working." – Bhagavad Gita
 <!-- QUOTE_END -->
